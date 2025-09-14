@@ -38,7 +38,6 @@ public class triangle {
    double num1 = in.nextDouble();
    double num2 = in.nextDouble();
    triangle t1 = new triangle(c1, num1, num2);
-   // in.close();
    System.out.println("Enter colour, height, base of triangle 2: ");
    String c2 = in2.nextLine();
    double num3 = in2.nextDouble();
